@@ -48,6 +48,9 @@ My objective is to dive into the tech industry, leveraging my skills to fortify 
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white" />
 </div>
 
+## Projects
+### [Port-Scanner] (https://github.com/thanmaye08/Port-Scanner-)
+
 
 ## Certifications
 <div>
