@@ -1,5 +1,5 @@
 # Hello, I'm Thanmaye
-<a href="https://linkedin.com/in/b-thanmaye-45a310222"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="www.linkedin.com/in/bhumireddy-thanmaye"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
 Greetings! I am Bhumireddy Thanmaye, a final year student at Vellore Institute of Technology (VIT), Vellore, on track to graduate in 2025 with a Bachelor's degree in Computer Science and Engineering, specializing in Information Security. With a deep-seated passion for cybersecurity, I am committed to advancing my technical expertise and applying my skills to address complex security challenges.
